@@ -1,0 +1,11 @@
+.breadcrumb_content{
+	background: #e8ecef;
+}
+.breadcrumb_content ul li{
+	font-size: 17px;
+	margin-top: 6px;
+	margin-left: 3px;
+}
+.main_menu nav > ul > li a{
+	font-size: 15px;
+}
